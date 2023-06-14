@@ -1,6 +1,6 @@
 # Documentação do Banco de Dados :floppy_disk:
 
-## [Prisma ORM :crystal_ball](prisma.md)
+## [Prisma ORM :crystal_ball:](prisma.md)
 
 ## Modelos :page_facing_up:
 
